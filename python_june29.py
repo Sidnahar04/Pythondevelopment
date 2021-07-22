@@ -1,0 +1,2 @@
+var="india"
+print(var)
